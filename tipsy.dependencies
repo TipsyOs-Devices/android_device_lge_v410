@@ -1,6 +1,22 @@
 [
   {
-    "repository": "android_device_lge_v4xx-common",
-    "target_path": "device/lge/v4xx-common"
+    "repository": "TipsyOs-Devices/device/device_lge_v4xx-common",
+    "target_path": "device/lge/v4xx-common",
+    "branch": "lp5.1"
+  },
+ {
+    "repository": "CyanogenMod/android_kernel_lge_v4xx",
+    "target_path": "kernel/lge/v4xx",
+    "branch": "cm-12.1"
+  },
+  {
+    "repository": "CyanogenMod/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch": "cm-12.1"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_lge",
+    "target_path":  "vendor/lge",
+    "branch": "cm-12.1"
   }
 ]
