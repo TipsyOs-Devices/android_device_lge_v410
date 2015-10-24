@@ -5,7 +5,7 @@ $(call inherit-product, device/lge/v410/full_v410.mk)
 
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/tipsy/config/common_full_tablet_wifionly.mk)
-$(call inherit-product, vendor/tipsy/config/telephony.mk)
+$(call inherit-product, vendor/tipsy/config/common_full_tablet_lte.mk)
 
 PRODUCT_NAME := tipsy_v410
 
