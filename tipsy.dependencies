@@ -1,6 +1,6 @@
 [
   {
-    "repository": "TipsyOs-Devices/device/device_lge_v4xx-common",
+    "repository": "TipsyOs-Devices/device_lge_v4xx-common",
     "target_path": "device/lge/v4xx-common",
     "branch": "lp5.1"
   },
